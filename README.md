@@ -1,5 +1,5 @@
 # Mastering System Administration with PowerShell 6.x [Video]
-This is the code repository for [Mastering System Administration with PowerShell 6.x [Video]](https://www.packtpub.com/networking-and-servers/mastering-system-administration-powershell-6x-video?utm_source=github&utm_medium=repository&utm_campaign=9781788831048), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Mastering System Administration with PowerShell 6.x [Video]](), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 PowerShell combines command-line speed, the flexibility of scripting, and the power of a GUI-based admin tool. Virtually all of the server products Microsoft is producing right now can be managed through PowerShell. From an administrative standpoint, this means that if you become proficient in PowerShell, you’ll have the skill set needed to manage most of Microsoft's newer products. 
 
@@ -26,13 +26,14 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video is for system administrators who want to master Windows PowerShell 6.0 as a scripting language, automate repeated daily tasks, and perform complex administration in timely manner and with less effort.In order to get the maximum benefit from this video, you need to have some basic scripting knowledge and a good administration experience.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-PowerShell Core 6
 Windows OS
+Azure
+Powershell
 
 ## Related Products
 * [Automating Your Systems with PowerShell 6.x [Video]](https://www.packtpub.com/virtualization-and-cloud/automating-your-systems-powershell-6x-video?utm_source=github&utm_medium=repository&utm_campaign=9781788624404)
 
-* [PowerShell Core 6.1 for Linux [Video]PowerShell Core 6.1 for Linux [Video]](https://www.packtpub.com/virtualization-and-cloud/powershell-core-61-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559595)
+* [PowerShell Core 6.1 for Linux [Video]](https://www.packtpub.com/virtualization-and-cloud/powershell-core-61-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559595)
 
-* [Mastering System Administration with PowerShell 6.x [Video]](https://www.packtpub.com/networking-and-servers/mastering-system-administration-powershell-6x-video?utm_source=github&utm_medium=repository&utm_campaign=9781788831048)
+* [Mastering System Administration with PowerShell 6.x [Video]]()
 
